@@ -1,0 +1,2 @@
+# customresolution
+Custom resolution scaling
