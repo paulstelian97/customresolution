@@ -6,7 +6,7 @@ Custom resolution scaling
 
 # Current working
 
-This program currently reads from `~/rescfg 4` numbers, namely the width and height of the native resolution and that of the scaled resolution.
+This program currently reads from `~/rescfg` 4 numbers, namely the width and height of the native resolution and that of the scaled resolution.
 
 # Usage
   `customresolution --switch` sends a SIGUSR1 signal to all daemons it could get (should normally be only the one for the currently active screen; doesn't work well with multiple sessions of the same user)
